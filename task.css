@@ -1,0 +1,14 @@
+.d{
+			background-color: lightblue;
+			height: 50px;
+}
+.d1{
+	height: 50px;
+	border-radius: 50px;
+	background-color: lightblue;
+	font-size: 10px;
+	padding-top: 10px;
+}
+a:hover{
+	color: red;
+}
